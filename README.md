@@ -5,4 +5,4 @@
 - 📫 How to reach me: brethel (at) 
 -->
 
-- 🌱 I’m currently learning [React-Native](https://www.awesome-react-native.com/) && [GOlang](https://golang.org/doc/code) ( [awesome-go](https://github.com/avelino/awesome-go) ).
+- 🌱 I’m currently learning [React-Native](https://www.awesome-react-native.com/) && [GOlang](https://golang.org/doc/code) ( [awesome-go](https://github.com/avelino/awesome-go) [Network programming with GO](https://ipfs.io/ipfs/QmfYeDhGH9bZzihBUDEQbCbTc5k5FZKURMUoUvfmc27BwL/index.html) ).
